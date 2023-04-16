@@ -17,11 +17,18 @@
 
 ## Presenters  
 
-| Abbreviation | Name            | 
-| :--          | :--             | 
-| EW           | Eoin Whelan     |
-| AT           | Alena Trojakova |
-| DS           | Daniel Santos   | 
+|    | Name                    | 
+|:-- | :--                     |                    
+| AB | Antonin Bucanek         |                  
+| AT | Alena Trojakova         |           
+| BS | Benedikt Strajnar       |            
+| DS | Daniel Santos           |           
+| EW | Eoin Whelan             |           
+| PM | Paulo Meideros          |           
+| RH | Rafiq Hamdi             |           
+| RR | Roger Randriamampianina |       
+| RS | Roel Stappers           |           
+| TA | Trygve Aspelien         |           
 
 ## Program
 
@@ -73,7 +80,7 @@
 
 | Time        | Presenter       |  Presentation              
 | :--         | :--             |  :--                   
-| 0900 - 0945 | Rafig Hamdi     | [Surface DA](./presentations/Hamdi_SURFACE_DA.pdf)[^RH]
+| 0900 - 0945 | Rafiq Hamdi     | [Surface DA](./presentations/Hamdi_SURFACE_DA.pdf)[^RH]
 | 0945 - 1030 | Trygve Aspelien | [Surface DA II](./presentations/Surface DA II.pdf)[^TA] 
 | 1100 - 1130 | Eoin Whelan     | [Cycling - Input/Output/Archiving in Harmonie](./presentations/eoinWhelan_HarmonieCycling.pdf) 
  
