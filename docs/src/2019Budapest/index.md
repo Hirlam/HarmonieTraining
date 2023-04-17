@@ -11,9 +11,9 @@
 
 ## Background reading 
 
-- [Data assimilation concept and methods, Bouttier and Courtier, 1999](https://www.ecmwf.int/en/elibrary/16928-data-assimilation-concepts-and-methods)
-- [Introduction to data assimilation, ECMWF material](https://www.ecmwf.int/assets/elearning/da/da1/story_html5.html) 
-- [Overview of satellite observations and their role in NWP, ECMWF material](https://www.ecmwf.int/assets/elearning/satellite/satellite-obs/story_html5.html) 
+- [Data assimilation concept and methods, Bouttier and Courtier, 1999](https://www.ecmwf.int/sites/default/files/elibrary/2002/16928-data-assimilation-concepts-and-methods.pdf)
+- [Introduction to data assimilation, ECMWF material](https://learning.ecmwf.int/group/guest/lesson-viewer?p_p_id=com_arcusys_valamis_web_portlet_LessonViewerView&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&p_p_auth=EnWe1jZR&_com_arcusys_valamis_web_portlet_LessonViewerView_lesson_id=1852&_com_arcusys_valamis_web_portlet_LessonViewerView_referer=https%3A%2F%2Fwww.ecmwf.int%2F) 
+- [Overview of satellite observations and their role in NWP, ECMWF material](https://learning.ecmwf.int/group/guest/lesson-viewer?p_p_id=com_arcusys_valamis_web_portlet_LessonViewerView&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&p_p_auth=EnWe1jZR&_com_arcusys_valamis_web_portlet_LessonViewerView_lesson_id=1849&_com_arcusys_valamis_web_portlet_LessonViewerView_referer=https%3A%2F%2Fwww.ecmwf.int%2) 
 
 ## Presenters  
 
